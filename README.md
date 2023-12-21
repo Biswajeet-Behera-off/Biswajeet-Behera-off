@@ -3,6 +3,9 @@
 
 ## Hi there 👋
 
+Welcome to my GitHub playground!📊 Data explorer, 🎨 app design enthusiast, and a perpetual learner in the realm of tech! Diving into the depths of data science while crafting sleek digital experiences. Join me on this journey of discovery and design!
+
+
 ![Static Badge](https://img.shields.io/badge/Python-80%25-blue?logo=Python)
 ![Static Badge](https://img.shields.io/badge/HTML-50%25-orange?logo=HTML)
 ![Static Badge](https://img.shields.io/badge/CSS-50%25-blue?logo=css)
