@@ -3,5 +3,6 @@
 
 ### Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/python)
+![Static Badge](https://img.shields.io/badge/Python-80%25-blue?logo=Python)
+
 
