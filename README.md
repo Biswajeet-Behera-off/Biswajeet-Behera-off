@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub playground!📊 Data explorer, 🎨 app design enthusiast, and a perpetual learner in the realm of tech! Diving into the depths of data science while crafting sleek digital experiences. Join me on this journey of discovery and design!
+Welcome to my GitHub playground!📊 Data explorer, 🎨 app design enthusiast, and a perpetual learner in the realm of tech! Diving into the depths of data science while crafting sleek digital experiences. Join me on this journey of discovery and design.
 
 ### Languages 👋
 
@@ -13,5 +13,7 @@ Welcome to my GitHub playground!📊 Data explorer, 🎨 app design enthusiast, 
 ![Static Badge](https://img.shields.io/badge/JavaScript-30%25-yellow?logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/C-30%25-blue?logo=C)
 ![Static Badge](https://img.shields.io/badge/SQL-60%25-blue?logo=mysql)
+
+### Technologies
 
 
