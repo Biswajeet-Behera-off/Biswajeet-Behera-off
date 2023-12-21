@@ -3,5 +3,5 @@
 
 ### Hi there 👋
 
-<img alt="Static Badge" src="https://img.shields.io/badge/python">
+![Static Badge](https://img.shields.io/badge/python)
 
