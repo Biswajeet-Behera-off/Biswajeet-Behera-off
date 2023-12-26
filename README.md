@@ -24,6 +24,7 @@ Welcome to my GitHub playground!📊 Data explorer, 🎨 app design enthusiast, 
 ![Static Badge](https://img.shields.io/badge/Django-black?logo=Django)
 ![Static Badge](https://img.shields.io/badge/Flask-blue?logo=Flask)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-black?logo=TensorFlow)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Excel-%237E733C?logo=microsoft-excel)
 ![Static Badge](https://img.shields.io/badge/AWS-black?logo=Amazon-AWS&logoColor=f90)
 ![Static Badge](https://img.shields.io/badge/Flutter-Orange?logo=Flutter&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Flet-blue?logo=Flutter&logoColor=%23fff)
