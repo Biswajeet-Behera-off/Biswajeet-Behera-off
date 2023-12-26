@@ -8,14 +8,12 @@ Welcome to my GitHub playground!📊 Data explorer, 🎨 app design enthusiast, 
 ### Languages 👋
 
 ![Static Badge](https://img.shields.io/badge/Python-80%25-blue?logo=Python)
+![Static Badge](https://img.shields.io/badge/Excel-70%25-%237E733C?logo=microsoft-excel)
+![Static Badge](https://img.shields.io/badge/SQL-60%25-blue?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/HTML-50%25-orange?logo=HTML)
 ![Static Badge](https://img.shields.io/badge/CSS-50%25-blue?logo=css)
 ![Static Badge](https://img.shields.io/badge/JavaScript-30%25-yellow?logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/C-30%25-blue?logo=C)
-![Static Badge](https://img.shields.io/badge/SQL-60%25-blue?logo=mysql)
-[![Excel Badge](https://img.shields.io/badge/Excel-70%-#7E733C?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
-
 
 
 ### Technologies 👋
