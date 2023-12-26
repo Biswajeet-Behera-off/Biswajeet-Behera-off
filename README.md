@@ -13,7 +13,7 @@ Welcome to my GitHub playground!📊 Data explorer, 🎨 app design enthusiast, 
 ![Static Badge](https://img.shields.io/badge/JavaScript-30%25-yellow?logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/C-30%25-blue?logo=C)
 ![Static Badge](https://img.shields.io/badge/SQL-60%25-blue?logo=mysql)
-[![Excel Badge](https://img.shields.io/badge/Excel-2019-blue?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Excel Badge](https://img.shields.io/badge/Excel-70%-#7E733C?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 
 
