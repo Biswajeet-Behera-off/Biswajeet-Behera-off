@@ -29,49 +29,38 @@ Welcome to my GitHub playground!📊 Hi, I'm Biswajeet Behera, a passionate Data
 
 ## Strategy 👋
 
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title></title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/style.css" rel="stylesheet">
-    </head>
-    <body>
-        <canvas id="skillsChart" width="100" height="100"></canvas>
-        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-        <script>
-            const data = {
-                labels: ['MS Excel', 'Python', 'Machine Learning/Deep Learning', 'Django/Flask', 'Streamlit', 'HTML', 'CSS', 'JS', 'SQL'],
-                datasets: [{
-                data: [15, 30, 15, 10, 5, 5, 5, 5, 10], // Replace with your actual percentages
-                backgroundColor: [
-                    '#3670A0', '#217346', '#E34F26', '#1572B6', '#F7DF1E', '#025E8C', '#4C516D', '#FF6384', '#4BC0C0', '#FFCE56', '#E7E9ED'
-                ], 
-                hoverOffset: 4 
-                }]
-            };
-            const options = {
-                plugins: {
-                legend: {
-                    display: true,
-                    position: 'bottom', 
-                }
-                },
-                animation: {
-                animateScale: true,
-                animateRotate: true
-                }
-            };
-            const ctx = document.getElementById('skillsChart').getContext('2d');
-            const skillsChart = new Chart(ctx, {
-                type: 'pie',
-                data: data,
-                options: options
-            });
-        </script>
-    </body>
-</html>
+<canvas id="skillsChart" width="100" height="100"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const data = {
+        labels: ['MS Excel', 'Python', 'Machine Learning/Deep Learning', 'Django/Flask', 'Streamlit', 'HTML', 'CSS', 'JS', 'SQL'],
+        datasets: [{
+        data: [15, 30, 15, 10, 5, 5, 5, 5, 10], // Replace with your actual percentages
+        backgroundColor: [
+            '#3670A0', '#217346', '#E34F26', '#1572B6', '#F7DF1E', '#025E8C', '#4C516D', '#FF6384', '#4BC0C0', '#FFCE56', '#E7E9ED'
+        ], 
+        hoverOffset: 4 
+        }]
+    };
+    const options = {
+        plugins: {
+        legend: {
+            display: true,
+            position: 'bottom', 
+        }
+        },
+        animation: {
+        animateScale: true,
+        animateRotate: true
+        }
+    };
+    const ctx = document.getElementById('skillsChart').getContext('2d');
+    const skillsChart = new Chart(ctx, {
+        type: 'pie',
+        data: data,
+        options: options
+    });
+</script>
 
 Extract, transform, and analyze data using Python and its powerful libraries like Pandas and NumPy. Utilize SQL to efficiently retrieve and manipulate data from databases. Gain initial insights and create simple visualizations with Excel. Develop predictive models leveraging machine learning (including deep learning) techniques with tools like Scikit-learn and TensorFlow/PyTorch.  Design interactive data visualizations and web applications using HTML, CSS, and JavaScript, deploying them on robust frameworks like Django or Flask for wider access. Leverage Streamlit to rapidly prototype and share data applications for seamless collaboration and effective communication of insights.
 
