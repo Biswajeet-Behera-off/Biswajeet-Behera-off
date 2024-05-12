@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub playground!📊 Data explorer, 🎨 app design enthusiast, and a perpetual learner in the realm of tech! Diving into the depths of data science while crafting sleek digital experiences. Join me on this journey of discovery and design.
+Welcome to my GitHub playground!📊 Hi, I'm Biswajeet Behera, a passionate Data Science & Machine Learning with a keen eye for creating intuitive and engaging experiences. With a strong foundation in Data Science & Machine Learning, I specialize in transforming complex information into actionable insights and crafting user-friendly interfaces.
 
 ### Languages 👋
 
