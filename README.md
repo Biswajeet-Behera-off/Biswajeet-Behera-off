@@ -7,26 +7,25 @@ Welcome to my GitHub playground!📊 Hi, I'm Biswajeet Behera, a passionate Data
 
 ### Languages 👋
 
-![Static Badge](https://img.shields.io/badge/Python-80%25-blue?logo=Python)
-![Static Badge](https://img.shields.io/badge/Excel-70%25-%237E733C?logo=microsoft-excel)
-![Static Badge](https://img.shields.io/badge/SQL-60%25-blue?logo=mysql)
-![Static Badge](https://img.shields.io/badge/HTML-50%25-orange?logo=HTML)
-![Static Badge](https://img.shields.io/badge/CSS-50%25-blue?logo=css)
-![Static Badge](https://img.shields.io/badge/JavaScript-30%25-yellow?logo=JavaScript)
-![Static Badge](https://img.shields.io/badge/C-30%25-blue?logo=C)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
 ### Technologies 👋
 
-![Static Badge](https://img.shields.io/badge/Deep%20Learning-blue?logo=PYTHON&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/Machine%20Learning-black?logo=python)
-![Static Badge](https://img.shields.io/badge/Predictive%20Analysis-Orange?logo=python)
-![Static Badge](https://img.shields.io/badge/Django-black?logo=Django)
-![Static Badge](https://img.shields.io/badge/Flask-blue?logo=Flask)
-![Static Badge](https://img.shields.io/badge/TensorFlow-black?logo=TensorFlow)
-![Static Badge](https://img.shields.io/badge/Microsoft%20Excel-%237E733C?logo=microsoft-excel)
-![Static Badge](https://img.shields.io/badge/AWS-black?logo=Amazon-AWS&logoColor=f90)
-![Static Badge](https://img.shields.io/badge/Flutter-Orange?logo=Flutter&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/Flet-blue?logo=Flutter&logoColor=%23fff)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+
+
 
 
