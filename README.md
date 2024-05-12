@@ -29,8 +29,7 @@ Welcome to my GitHub playground!📊 Hi, I'm Biswajeet Behera, a passionate Data
 
 ## Strategy 👋
 
-<img src="https://github.com/Biswajeet-Behera-off/Biswajeet-Behera-off/blob/main/skills-graph.png" width="100" height="100"/>
-
+<img src="https://raw.githubusercontent.com/Biswajeet-Behera-off/Biswajeet-Behera-off/main/skills-graph.png" width="80%"/>
 Extract, transform, and analyze data using Python and its powerful libraries like Pandas and NumPy. Utilize SQL to efficiently retrieve and manipulate data from databases. Gain initial insights and create simple visualizations with Excel. Develop predictive models leveraging machine learning (including deep learning) techniques with tools like Scikit-learn and TensorFlow/PyTorch.  Design interactive data visualizations and web applications using HTML, CSS, and JavaScript, deploying them on robust frameworks like Django or Flask for wider access. Leverage Streamlit to rapidly prototype and share data applications for seamless collaboration and effective communication of insights.
 
 
