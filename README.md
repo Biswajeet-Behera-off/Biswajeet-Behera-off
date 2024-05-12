@@ -1,4 +1,4 @@
-<a href="https://www.techbiswajeet.in"><img height="30%" width="80%" border-radius ="25px" src="https://github.com/Biswajeet-Behera-off/Biswajeet-Behera-off/blob/main/ani-gif.gif"/></a>
+<a href="https://www.techbiswajeet.in"><img height="25%" width="120%" border-radius ="25px" src="https://github.com/Biswajeet-Behera-off/Biswajeet-Behera-off/blob/main/ani-gif.gif"/></a>
 
 
 ## Hi there 👋
